@@ -1,5 +1,5 @@
 baseurl = "http://example.org"
-title = "Steve & Ellen Wedding Extravaganza"
+title = "Steve & Ellen's Wedding"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -35,4 +35,3 @@ disableKinds=["RSS"]
 [languages.en]
 languageName = "English"
 weight = 1
-
