@@ -34,7 +34,7 @@ https://www.citylink.ie/
 
 ### Taxi Firms
 
-Taxi Tyrrellspass; 00353
+<img src="/img/taxi.jpg" width="100%" heigh="100%">
 
 ### Map
 
