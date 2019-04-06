@@ -12,7 +12,7 @@ The marriage service is in a Church of Ireland church. The Church of Ireland is 
 
 All are welcome to attend.
 
-Please be seated by 2.15 pm. Please turn phones to silent.
+Please be seated by 2:15 pm, the ceremony will start at 2:30pm. Please turn phones to silent.
 
 No confetti in church grounds please
 

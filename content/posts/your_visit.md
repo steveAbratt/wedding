@@ -16,3 +16,7 @@ Browns on the green is another lovely place to eat in Tyrrellspass.
 If you fancy a picturesque walk the Belvedere House Gardens & Park is worth a visit.
 
 <img src="/img/belvedere.jpg" width="100%" heigh="100%">
+
+For the whiskey lovers theres Kilbeggan distillery a short distance away (10 mins drive) and Tullamore a little further (20 mins drive). Both have excellent tours and gift shops.
+
+<img src="/img/kilbeggan.jpg" width="100%" heigh="100%">
