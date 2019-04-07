@@ -22,6 +22,8 @@ No confetti in church grounds please
 
 Drinks reception will be at 3:30pm at Willie's and The Barn directly opposite the church across the green.
 
+Evening guests are welcome from 9pm.
+
 ### Contacts
 Bride (Ellen) &#48;&#48;&#52;&#52;&#55;&#56;&#49;&#55;&#49;&#56;&#56;&#55;&#52;&#57;
 
