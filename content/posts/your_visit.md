@@ -5,7 +5,7 @@ draft: false
 ---
 
 For anybody arriving on the Friday evening, you are all welcome to join us at the castle.
-We will be there from 7:30pm onwards (https://www.facebook.com/tyrrellspasscastle/)
+We will be there from 6:30pm onwards (https://www.facebook.com/tyrrellspasscastle/)
 
 <img src="/img/castle.jpg" width="100%" heigh="100%">
 
